@@ -116,7 +116,21 @@ Para subir una imagen a DockerHub se debera tener una cuenta creada en el mismo,
 uno para la base de datos MongoDB y otro para la aplicación Java, posteriormente utilizaremos el siguiente comando
 para asociar cada una de las imágenes a un repositorio en DockerHub.
 
+#docker build --tag dockersparkprimer .
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
 
+#Docker compose
+![img_8.png](img_8.png)
+Tag:
+![img_10.png](img_10.png)
+#Docker push:
+![img_12.png](img_12.png)
+#Subir repo Docker:
+![img_13.png](img_13.png)
+##Despliegue AWS:
+![img_15.png](img_15.png)
+![img_16.png](img_16.png)
 
 
 `
